@@ -1,0 +1,209 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* PDFGeneratorDemoAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1122, 475}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 210}";
+		};
+	};
+	1D3623250D0F684500981E51 /* PDFGeneratorDemoAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1122, 1444}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 230}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* PDFGeneratorDemo */ = {
+		activeExec = 0;
+		executables = (
+			A9BB0B8B12D35705000B0DAF /* PDFGeneratorDemo */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* PDFGeneratorDemoViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1329, 418}}";
+			sepNavSelRange = "{327, 0}";
+			sepNavVisRange = "{173, 195}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* PDFGeneratorDemoViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1329, 3268}}";
+			sepNavSelRange = "{3992, 0}";
+			sepNavVisRange = "{3763, 624}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = A9BB0B8B12D35705000B0DAF /* PDFGeneratorDemo */;
+		activeSDKPreference = iphoneos4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* PDFGeneratorDemo */;
+		codeSenseManager = A9BB0B9E12D35710000B0DAF /* Code sense */;
+		executables = (
+			A9BB0B8B12D35705000B0DAF /* PDFGeneratorDemo */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					10,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 315840261;
+			PBXWorkspaceStateSaveDate = 315840261;
+		};
+		perUserProjectItems = {
+			A9BB0B9412D35710000B0DAF /* PBXTextBookmark */ = A9BB0B9412D35710000B0DAF /* PBXTextBookmark */;
+			A9BB0B9512D35710000B0DAF /* PBXTextBookmark */ = A9BB0B9512D35710000B0DAF /* PBXTextBookmark */;
+			A9BB0BA512D357AC000B0DAF /* PBXTextBookmark */ = A9BB0BA512D357AC000B0DAF /* PBXTextBookmark */;
+			A9BB0C3412D36A59000B0DAF /* PBXTextBookmark */ = A9BB0C3412D36A59000B0DAF /* PBXTextBookmark */;
+			A9BB0C4C12D36AFA000B0DAF /* PBXTextBookmark */ = A9BB0C4C12D36AFA000B0DAF /* PBXTextBookmark */;
+			A9BB0C6312D36D4C000B0DAF /* PlistBookmark */ = A9BB0C6312D36D4C000B0DAF /* PlistBookmark */;
+			A9BB0C6512D36D51000B0DAF /* PlistBookmark */ = A9BB0C6512D36D51000B0DAF /* PlistBookmark */;
+		};
+		sourceControlManager = A9BB0B9D12D35710000B0DAF /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	A9BB0B8B12D35705000B0DAF /* PDFGeneratorDemo */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = PDFGeneratorDemo;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	A9BB0B9412D35710000B0DAF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* PDFGeneratorDemoAppDelegate.h */;
+		name = "PDFGeneratorDemoAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 210;
+		vrLoc = 0;
+	};
+	A9BB0B9512D35710000B0DAF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* PDFGeneratorDemoAppDelegate.m */;
+		name = "PDFGeneratorDemoAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 230;
+		vrLoc = 0;
+	};
+	A9BB0B9D12D35710000B0DAF /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	A9BB0B9E12D35710000B0DAF /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	A9BB0BA512D357AC000B0DAF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A9BB0BA612D357AC000B0DAF /* CFAttributedString.h */;
+		name = "CFAttributedString.h: 40";
+		rLen = 149;
+		rLoc = 1783;
+		rType = 0;
+		vrLen = 1933;
+		vrLoc = 0;
+	};
+	A9BB0BA612D357AC000B0DAF /* CFAttributedString.h */ = {
+		isa = PBXFileReference;
+		name = CFAttributedString.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFAttributedString.h;
+		sourceTree = "<absolute>";
+	};
+	A9BB0C3412D36A59000B0DAF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PDFGeneratorDemoViewController.m */;
+		name = "PDFGeneratorDemoViewController.m: 83";
+		rLen = 34;
+		rLoc = 2654;
+		rType = 0;
+		vrLen = 1428;
+		vrLoc = 1629;
+	};
+	A9BB0C4C12D36AFA000B0DAF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* PDFGeneratorDemoViewController.h */;
+		name = "PDFGeneratorDemoViewController.h: 18";
+		rLen = 0;
+		rLoc = 327;
+		rType = 0;
+		vrLen = 369;
+		vrLoc = 0;
+	};
+	A9BB0C6312D36D4C000B0DAF /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* PDFGeneratorDemo-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			UIFileSharingEnabled,
+		);
+		name = "/Users/lv/Downloads/0104/PDFGeneratorDemo/PDFGeneratorDemo-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	A9BB0C6512D36D51000B0DAF /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* PDFGeneratorDemo-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			UIFileSharingEnabled,
+		);
+		name = "/Users/lv/Downloads/0104/PDFGeneratorDemo/PDFGeneratorDemo-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+}
